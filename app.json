@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Shopbae",
+    "slug": "shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Shopbae.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/Shopbae.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1CB060"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Shopbae.png",
+        "backgroundColor": "#1CB060"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/Shopbae.png"
+    }
+  }
+}
